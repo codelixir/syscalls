@@ -1,0 +1,38 @@
+Directory is created: Yes
+
+User has read permission on Assignment: Yes
+User has write permission on Assignment: Yes
+User has execute permission on Assignment: Yes
+
+Group has read permission on Assignment: No
+Group has write permission on Assignment: No
+Group has execute permission on Assignment: No
+
+Others has read permission on Assignment: No
+Others has write permission on Assignment: No
+Others has execute permission on Assignment: No
+
+User has read permission on Assignment/1_test.txt: Yes
+User has write permission on Assignment/1_test.txt: Yes
+User has execute permission on Assignment/1_test.txt: No
+
+Group has read permission on Assignment/1_test.txt: No
+Group has write permission on Assignment/1_test.txt: No
+Group has execute permission on Assignment/1_test.txt: No
+
+Others has read permission on Assignment/1_test.txt: No
+Others has write permission on Assignment/1_test.txt: No
+Others has execute permission on Assignment/1_test.txt: No
+
+User has read permission on Assignment/2_test.txt: Yes
+User has write permission on Assignment/2_test.txt: Yes
+User has execute permission on Assignment/2_test.txt: No
+
+Group has read permission on Assignment/2_test.txt: No
+Group has write permission on Assignment/2_test.txt: No
+Group has execute permission on Assignment/2_test.txt: No
+
+Others has read permission on Assignment/2_test.txt: No
+Others has write permission on Assignment/2_test.txt: No
+Others has execute permission on Assignment/2_test.txt: No
+
